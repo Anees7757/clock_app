@@ -4,10 +4,6 @@ A new Flutter project.
 
 ## Getting Started
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anees7757&show_icons=true&theme=radical)
-
-
-
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
